@@ -1,0 +1,9 @@
+Listing Menghitung Histogram 
+
+- procedure TFormHist.MenghitungHistogram(max: integer);
+- var
+-   i, j: integer;
+-   PC: PByteArray;
+- begin
+-   if (Picture = nil) then
+-     exit;
