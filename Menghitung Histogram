@@ -1,8 +1,3 @@
-Histogram tingkat keabuan/warna : Suatu fungsi yang menunjukkan jumlah titik yang ada di dalam suatu citra untuk setiap tingkat keabuan. 
-                                  Salah satu alat bantu yang paling sederhana dan sangat berguna dalam pengolahan citra digital
-
-Listing Menghitung Histogram 
-
 - procedure TFormHist.MenghitungHistogram(max: integer);
 - var
 -   i, j: integer;
